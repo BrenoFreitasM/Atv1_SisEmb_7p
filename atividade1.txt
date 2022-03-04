@@ -1,0 +1,12 @@
+Atividade 1 - Sistemas Embarcados
+
+Usando como referência o material postado no classroom da disciplina chamado “Linguagem C - Aprendendo com Exercicios Resolvidos.pdf”, implemente os seguinte exercícios.
+
+Escolha e implemente 2 exercícios do Capítulo 1
+Escolha e implemente 2 exercícios do Capítulo 2
+Escolha e implemente 2 exercícios do Capítulo 3
+
+Poste no classrom da disciplina o link do github (ou outro repositório de versionamento) o link do projeto com esses código implementados.
+
+Prazos e pontos, indicados na atividade do classroom.
+
